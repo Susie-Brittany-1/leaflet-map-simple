@@ -5,6 +5,7 @@ A simple Leaflet map template for new users to copy, modify, and experiment
 
 https://susie-brittany-1.github.io/leaflet-map-simple/
 
+
 ## Create your own version
 - See video with step-by-step tutorial at https://www.datavizforall.org/leaflet/simple
 
